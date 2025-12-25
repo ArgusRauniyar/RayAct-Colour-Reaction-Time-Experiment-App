@@ -1,4 +1,4 @@
-RayAct allows users to experiment on colour reaction time on 5 trials, made with Python, it determines reaction time to colour changes through mouse clicks.
+RayAct allows users to experiment on colour reaction time on 5 trials, made with Python, it records and presents reaction time to colour changes through mouse clicks. 
 
 Features
 - Reaction time measurement: Records how quickly users respond to a visual stimulus (green screen).
